@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.2
+discord_webhook==0.11.0
+lxml==4.6.1
+requests==2.25.0
+split==0.4
+pandas==1.1.5
+sqlalchemy==1.4.46
+psycopg2-binary==2.9.6
